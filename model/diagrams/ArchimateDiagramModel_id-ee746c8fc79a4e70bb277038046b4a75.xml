@@ -27,4 +27,16 @@
         xsi:type="archimate:ApplicationCollaboration"
         href="ApplicationCollaboration_id-e228005839764e3eb254f9ecee337205.xml#id-e228005839764e3eb254f9ecee337205"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-3e6bcf76b6fb435ea06486d6c4ffff47">
+    <bounds
+        x="234"
+        y="307"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-6f4139e8c1c242359b0706741ef96c51.xml#id-6f4139e8c1c242359b0706741ef96c51"/>
+  </children>
 </archimate:ArchimateDiagramModel>
