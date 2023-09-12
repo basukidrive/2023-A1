@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Policy &amp; Business Rule"
+    id="id-19011b8afbb542e98c86d62b1d25a423">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-7b833689199345f2ad9d8473c9117461">
+    <bounds
+        x="468"
+        y="444"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessActor"
+        href="BusinessActor_id-f7685de8990b4ed49694d337978a992c.xml#id-f7685de8990b4ed49694d337978a992c"/>
+  </children>
+</archimate:ArchimateDiagramModel>
