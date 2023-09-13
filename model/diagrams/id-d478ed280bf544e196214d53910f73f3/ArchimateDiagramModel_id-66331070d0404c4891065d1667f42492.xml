@@ -326,7 +326,7 @@
       targetConnections="id-b78cd2f47740427383499043ce28be37">
     <bounds
         x="204"
-        y="420"
+        y="408"
         width="120"
         height="55"/>
     <archimateElement
@@ -338,8 +338,8 @@
       id="id-7665edb78379423f8f37bb6204ddad4b"
       targetConnections="id-e1630f26497b4fc3a749c39eb610424c">
     <bounds
-        x="408"
-        y="420"
+        x="409"
+        y="408"
         width="120"
         height="55"/>
     <archimateElement
@@ -352,7 +352,7 @@
       targetConnections="id-6a67824951614e05af473f1f4b891ead">
     <bounds
         x="601"
-        y="420"
+        y="408"
         width="120"
         height="55"/>
     <archimateElement
