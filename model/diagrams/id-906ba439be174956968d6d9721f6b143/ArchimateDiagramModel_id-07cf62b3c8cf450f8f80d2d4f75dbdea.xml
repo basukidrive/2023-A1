@@ -1,4 +1,18 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Katalog Proses Bisnis"
-    id="id-07cf62b3c8cf450f8f80d2d4f75dbdea"/>
+    id="id-07cf62b3c8cf450f8f80d2d4f75dbdea">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-2ef46618eec24d4aac8bdb505b406656">
+    <bounds
+        x="188"
+        y="186"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessObject"
+        href="BusinessObject_id-3ebc1cd2f6cd43f988f467ac135b0a84.xml#id-3ebc1cd2f6cd43f988f467ac135b0a84"/>
+  </children>
+</archimate:ArchimateDiagramModel>
