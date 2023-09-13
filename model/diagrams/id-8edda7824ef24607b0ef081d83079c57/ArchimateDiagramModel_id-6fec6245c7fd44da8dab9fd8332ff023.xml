@@ -111,7 +111,7 @@
       textAlignment="1">
     <bounds
         x="60"
-        y="216"
+        y="370"
         width="400"
         height="140"/>
     <children
@@ -158,7 +158,7 @@
       textAlignment="1">
     <bounds
         x="60"
-        y="372"
+        y="526"
         width="400"
         height="140"/>
     <children
@@ -181,7 +181,7 @@
       textAlignment="1">
     <bounds
         x="60"
-        y="528"
+        y="682"
         width="400"
         height="140"/>
     <children
@@ -195,6 +195,29 @@
       <archimateElement
           xsi:type="archimate:ApplicationFunction"
           href="ApplicationFunction_id-8bdc350d771d48ff92f683368e2d96ea.xml#id-8bdc350d771d48ff92f683368e2d96ea"/>
+    </children>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-8042d59bc8984b31932bcf2493c10350"
+      name="eregistration"
+      textAlignment="1">
+    <bounds
+        x="60"
+        y="216"
+        width="400"
+        height="140"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-ed481e5582cb4cfd86ac94a598af40d9">
+      <bounds
+          x="21"
+          y="50"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:ApplicationFunction"
+          href="ApplicationFunction_id-96988eda1f1f4f219df84906e7081d8b.xml#id-96988eda1f1f4f219df84906e7081d8b"/>
     </children>
   </children>
 </archimate:ArchimateDiagramModel>
