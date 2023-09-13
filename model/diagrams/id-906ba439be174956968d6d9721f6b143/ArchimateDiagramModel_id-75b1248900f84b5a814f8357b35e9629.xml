@@ -8,7 +8,7 @@
       id="id-2d2e8debd7da4104a49ecfcbadfbea8e">
     <bounds
         x="240"
-        y="484"
+        y="468"
         width="120"
         height="55"/>
     <archimateElement
@@ -17,33 +17,9 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-4a0d12df761d4b72970c62933f3a4e09">
-    <bounds
-        x="504"
-        y="480"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:BusinessActor"
-        href="BusinessActor_id-32fc50afaf60469cb2cbf10b6177e80b.xml#id-32fc50afaf60469cb2cbf10b6177e80b"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-f94691546af6431ea061f86eb9da7db5">
-    <bounds
-        x="336"
-        y="300"
-        width="157"
-        height="61"/>
-    <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_id-c2f251d84b3d48e0a339e9464993aa81.xml#id-c2f251d84b3d48e0a339e9464993aa81"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="id-fecb651c3b2740d797cc83acc598968e">
     <bounds
-        x="144"
+        x="132"
         y="303"
         width="120"
         height="55"/>
