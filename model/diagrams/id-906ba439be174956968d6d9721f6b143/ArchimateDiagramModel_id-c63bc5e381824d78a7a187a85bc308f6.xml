@@ -52,9 +52,9 @@
           href="TriggeringRelationship_id-c18d7389f9e44f069080f2b1d9ecd1fb.xml#id-c18d7389f9e44f069080f2b1d9ecd1fb"/>
     </sourceConnections>
     <bounds
-        x="204"
+        x="96"
         y="120"
-        width="600"
+        width="732"
         height="37"/>
     <archimateElement
         xsi:type="archimate:BusinessActor"
