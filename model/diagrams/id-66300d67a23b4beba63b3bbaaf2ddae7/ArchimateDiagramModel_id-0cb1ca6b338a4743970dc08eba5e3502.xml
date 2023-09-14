@@ -1,4 +1,42 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Dashboard Portofolio"
-    id="id-0cb1ca6b338a4743970dc08eba5e3502"/>
+    id="id-0cb1ca6b338a4743970dc08eba5e3502">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-19dfb9ac36a1481ca6121fdcc9f274ee">
+    <bounds
+        x="238"
+        y="298"
+        width="162"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:DataObject"
+        href="DataObject_id-b10507e983d544f794958c9d1013a0c8.xml#id-b10507e983d544f794958c9d1013a0c8"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-e3f3aea5f4a04066b0579e1067af3959">
+    <bounds
+        x="658"
+        y="298"
+        width="145"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:DataObject"
+        href="DataObject_id-a82a44c93d2448f8a6b91f1ad50a26ea.xml#id-a82a44c93d2448f8a6b91f1ad50a26ea"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-a8b7fbdf03304ab084406cc79f286fbb">
+    <bounds
+        x="466"
+        y="298"
+        width="133"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:DataObject"
+        href="DataObject_id-e9f1aab6709c4b9c956776d5e01099f9.xml#id-e9f1aab6709c4b9c956776d5e01099f9"/>
+  </children>
+</archimate:ArchimateDiagramModel>
