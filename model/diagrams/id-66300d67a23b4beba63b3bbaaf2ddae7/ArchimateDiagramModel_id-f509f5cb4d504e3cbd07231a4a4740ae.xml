@@ -1,4 +1,42 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Data Model"
-    id="id-f509f5cb4d504e3cbd07231a4a4740ae"/>
+    id="id-f509f5cb4d504e3cbd07231a4a4740ae">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-1529dfa6e12544bcb76fb927dab6f5e6">
+    <bounds
+        x="228"
+        y="288"
+        width="162"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:DataObject"
+        href="DataObject_id-b10507e983d544f794958c9d1013a0c8.xml#id-b10507e983d544f794958c9d1013a0c8"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-dc4cb0d253934263b8898105297728a3">
+    <bounds
+        x="648"
+        y="288"
+        width="145"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:DataObject"
+        href="DataObject_id-a82a44c93d2448f8a6b91f1ad50a26ea.xml#id-a82a44c93d2448f8a6b91f1ad50a26ea"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-213ef9877e8e496a9eb50d7d42f562cf">
+    <bounds
+        x="456"
+        y="288"
+        width="133"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:DataObject"
+        href="DataObject_id-e9f1aab6709c4b9c956776d5e01099f9.xml#id-e9f1aab6709c4b9c956776d5e01099f9"/>
+  </children>
+</archimate:ArchimateDiagramModel>
